@@ -1,3 +1,4 @@
 body{
-background:rgba(253, 153, 2, 0.78);
+background:rgba(253, 153, 2, 0.78) url(paolotroll.jpg) no-repeat center;
+background-size:100%
 }
