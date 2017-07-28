@@ -1,3 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  font-family: 'Roboto', sans-serif;
+  -webkit-transition: All 0.2s ease;
+-moz-transition: All 0.2s ease;
+-o-transition: All 0.2s ease;
+-ms-transition: All 0.2s ease;
+transition: All 0.2s ease;
+box-sizing:border-box;
+  -o-box-sizing:border-box;
+  -ms-box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+}
+
 body{
 background:rgba(253, 153, 2, 0.78) url(kratos.jpg) no-repeat center;
 background-size:100%;
